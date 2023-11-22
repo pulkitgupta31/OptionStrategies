@@ -1,6 +1,6 @@
 ## Option Strategies
 
-This repo helps in calculating your profits using diffent trading strategies.
+This repo helps in calculating your profits using different trading strategies.
 
 The trading strategies you would be able to find are:
 - iron_condor
